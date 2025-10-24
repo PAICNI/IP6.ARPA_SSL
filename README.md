@@ -64,15 +64,6 @@ wrangler deploy
 }
 ```
 
-#### GET 请求
-```
-https://your-worker.workers.dev/?zoneId=xxx&email=xxx&apikey=xxx&ca=ssl_com
-```
-
-> **注意**：`ip6.arpa` 域名通常**仅支持 `ssl_com`**
-
----
-
 ## 加入社区
 
 我们有活跃的交流群和教程频道，欢迎加入！
